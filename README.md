@@ -29,8 +29,8 @@ This project is designed to collect gyroscope data from an MPU6050 sensor connec
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/esp32s3-ble-sensor.git
-   cd esp32s3-ble-sensor
+   git clone https://github.com/CheriWen/BONDING_PAIR_BLE.git
+   cd BONDING_PAIR_BLE
 
 2. **Install ESP-IDF:**
     Follow the instructions on the ESP-IDF GitHub to install and set up the development environment.
@@ -67,9 +67,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html) for providing the development framework.
 - [MPU6050](https://www.invensense.com/products/motion-tracking-dmp/mpu-6050/) for the gyroscope sensor.
-- [SD Card Module](https://www.seeedstudio.com/) for the SD card storage.
-- [Android App](https://github.com/your-username/android-app) for the Android app.
 
 ## Contact
 
-For any questions or issues, please open an issue on this repository or contact the project maintainer directly.
+-For any questions or issues, please open an issue on this repository or contact the project maintainer directly.
+-[My Email](Cherii8014@gmail.com)

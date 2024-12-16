@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
--For any questions or issues, please open an issue on this repository or contact the project maintainer directly.
--[My Email](Cherii8014@gmail.com)
+- For any questions or issues, please open an issue on this repository or contact the project maintainer directly.
+- [My Email](Cherii8014@gmail.com)
